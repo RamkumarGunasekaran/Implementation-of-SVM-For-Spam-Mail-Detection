@@ -22,8 +22,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: POZHILAN V D
-RegisterNumber: 212223240118
+Developed by: RAMKUMAR G
+RegisterNumber: 212223220084
 */
 import chardet 
 file='spam.csv'
@@ -80,7 +80,7 @@ Data.insull().sum():
 
 Y_Prediction Value:
 
-![328146747-b1b11a82-da48-4063-85cb-ee7bfef2860c](https://github.com/RamkumarGunasekaran/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144870820/12394795-2a71-4106-b66a-35fb5181c884
+![328146747-b1b11a82-da48-4063-85cb-ee7bfef2860c](https://github.com/RamkumarGunasekaran/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144870820/c3aafbac-8b17-4858-b5e3-89333c19a0a7)
 
 Accuracy Value:
 
